@@ -1,0 +1,137 @@
+{
+  "data": {
+    "featured": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Halcyon Theme",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB60lEQVR42m2Q646bMBCF/RZVQyAQG4zB2OAAxlyyuW27UjabTdIo+bHt+z9Gh7CXSo30IeE553jGg0Rzuktc9ST1iZueux4k6uP/pM2x25y7x/OsO+nFL+CuDSXV4R9eAa5f0/rw++16vVz2h/Oft+v5fOG9NBi+/IhX+0+EOcj+yoNsjhxkc4AR4Jjc6oMEnk8/4vqF6/0AaGl7gsCAbN6fkLUnWQ/FUx/+8CNe7hK9Y8VzXO6ifBvOtix/jop34vKF5dsPvuoDCD6a1FOqRm5KkgbHxgmUhZU1zayp8pghiaGyc2ll4+y7p0beTcVqElYoVE+Y5aLsHGYcPqflmpWdJ4zLaxsCQenFJsg2ifoRFw9CNV5UjiBJy0C2iKmnICpCoS2cOqFh+VpU6yjfYLkM5NJljR3oKWuoWHhqpXITZtUYzyZBgeMKUfVzghUOipErLDLzZctUQ2TtQFu/7MejFZGLIF1G2XwS13ZgoMdtKI389NFxk1B04B77JcnmvGpI0bqxdmk+9nMI+9kqhomKB5otcDyHsEO1HRrky43jJWHSWXgGYZzNidREGF/0y4MwXApro7wNocL1aDoDJ+zS9gtExGrsJh5R3+zYIvmYwuPzXu7pf6CzF7Ww7QkzMI4XFk6onaC0SfEXWGyfpED6r/sAAAAASUVORK5CYII="
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/d2194/halcyon.png",
+                        "srcSet": "/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/cebcc/halcyon.png 175w,\n/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/272cf/halcyon.png 350w,\n/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/d2194/halcyon.png 700w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/9aa63/halcyon.avif 175w,\n/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/e6db6/halcyon.avif 350w,\n/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/f47db/halcyon.avif 700w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/240e7/halcyon.webp 175w,\n/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/faefe/halcyon.webp 350w,\n/static/3b4d6e8f44baf7e6d7a0ed4b3e4d8d39/d5dc4/halcyon.webp 700w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 438
+                  }
+                }
+              },
+              "tech": ["VS Code", "Sublime Text", "Atom", "iTerm2", "Hyper"],
+              "github": "https://github.com/bchiang7/halcyon-site",
+              "external": "https://halcyon-theme.netlify.com/",
+              "cta": null
+            },
+            "html": "<p>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on <a href=\"https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Visual Studio Marketplace</a>, <a href=\"https://packagecontrol.io/packages/Halcyon%20Theme\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Package Control</a>, <a href=\"https://atom.io/themes/halcyon-syntax\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Atom Package Manager</a>, and <a href=\"https://www.npmjs.com/package/hyper-halcyon-theme\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">npm</a>.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Spotify Profile",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsTAAALEwEAmpwYAAABY0lEQVR42nVR206DQBTksU3KRWHvi11uhZBamiq0tk3hxS+oiUlNfDT+j36wB1BSC52Hk4XZOTPnrKb7mDqEMnoB+OEQcksIoVehTaRDERlUzu94pYSk9JpeG4/GjPV9Gcf463n+/VaVkqCBG43YMMwBW4RsUz/mj6fTu5LqxrIG42uukOcEeCCEsiwry3K12Rfbarvbr4u153kY40uxaVj/8zK4lKbpZve0321Xq2Ve5Ifq4Pv+gNjQzX4eMMecIIwY54hihzgYYdobHGa2+uJ6QYRCVIgghGANBmbWG2fyh47oPgm9SmmTiQFNoyiczeIkSTjnQECFM8wJGYIwjBuAOVAQBOJMp1M4a6PRmHO5WORxPAuCoI0H1XVdqJ5SxUMeRpFSqpsIKCnrN6rfmTOxuC+gGXQ9H8m27Xmavh5f1BlaWevxu23XFRASWnazAQ3iLFt+fHz6fr25pAFsEdjW5gftg1aq0wbNFwAAAABJRU5ErkJggg=="
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/3936989a99991beb6d649d7a7039df60/d2194/demo.png",
+                        "srcSet": "/static/3936989a99991beb6d649d7a7039df60/cebcc/demo.png 175w,\n/static/3936989a99991beb6d649d7a7039df60/272cf/demo.png 350w,\n/static/3936989a99991beb6d649d7a7039df60/d2194/demo.png 700w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/3936989a99991beb6d649d7a7039df60/9aa63/demo.avif 175w,\n/static/3936989a99991beb6d649d7a7039df60/e6db6/demo.avif 350w,\n/static/3936989a99991beb6d649d7a7039df60/f47db/demo.avif 700w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/3936989a99991beb6d649d7a7039df60/240e7/demo.webp 175w,\n/static/3936989a99991beb6d649d7a7039df60/faefe/demo.webp 350w,\n/static/3936989a99991beb6d649d7a7039df60/d5dc4/demo.webp 700w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 438
+                  }
+                }
+              },
+              "tech": ["React", "Styled Components", "Express", "Spotify API", "Heroku"],
+              "github": "https://github.com/bchiang7/spotify-profile",
+              "external": "https://spotify-profile.herokuapp.com/",
+              "cta": null
+            },
+            "html": "<p>A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Build a Spotify Connected App",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACqklEQVR42gGfAmD9AKS335qt24qc1H6RznaJynCCx26Axmt9xGp8xGh6xGV5xGl9xm6CyXSJzoOW1IOY1Yug2JGo2pmw3KK63gCds9qpr8Caq9SYqteSo9N8kMpmfcBmfcBier92i8eNn9GUptWer9mKoNLL1uuht9yXsde1yuOTttSWu9MAmLLcjqfUhKLXfJnTc5HOaojJY4LEY4C/Xny8c4/EmbDUnLPVl7HSiqnN1+LuosDXj7XPsM7ch7jJir7IAJGx2XmQs22DqWN8pl13olt1oVlzoFJ4slV+uVF9tU18s1GDs1OIs1iRtGOct2Kgtmiot3Cwuna4u37BvACGqc1hSUJbTUlZW1taWVhKSklTU1KPqciFqM+QsM+Dqsl2pcGPuMyIt8eKu8ebyM6Jw8JouK9pva1vxK4AgKjLMzI1Li0vMDAxMDEwKiopOTk5hafBf6/PeKvFdq3Daai5fLe/h8LCgcK9g8e8fsi2VryfWsGfYsihAHqqzCwrLSssMSgrLyUmIzEuKVtaUmuZtnqxznuxyHizxHW2v3m8vIXFwHLBs33JtoXQuIDSs1PHlVbLlQB2rs8yMjFBODM6NDQsLS4YFRMkISFknrd2u9FxuMVuur9tvbpswbR2ybVlx6hqzKeA17J516tJy4tNz4sAfcLmaqnJZ6fKWZ/FS5e9P42wOYmoOZy7NqK5NaSwNainNKyfNLKXMbaPNLyKMsCDM8SANMh8P86ASNOFAHvK7WvF7ly96VG45Em030Ky2z6y1DquxziuvTextDe0qzW4oDe8mFnMo2XSpVzTm13Vl2fanFrZkUPVgAB1zvBkxu1WwOlJu+RAt984tNgzs9AxtMkwtcAvuLUvu6ovv58wwpU3yJE8zIw/0Ic80oFF1oNI2ING2YD8jXg7DcpNFAAAAABJRU5ErkJggg=="
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/4e06bd39766c182ea26b255309b1dee1/bc3b9/course-card.png",
+                        "srcSet": "/static/4e06bd39766c182ea26b255309b1dee1/9a130/course-card.png 175w,\n/static/4e06bd39766c182ea26b255309b1dee1/a3fa1/course-card.png 350w,\n/static/4e06bd39766c182ea26b255309b1dee1/bc3b9/course-card.png 700w,\n/static/4e06bd39766c182ea26b255309b1dee1/87926/course-card.png 1400w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/4e06bd39766c182ea26b255309b1dee1/dae43/course-card.avif 175w,\n/static/4e06bd39766c182ea26b255309b1dee1/d7667/course-card.avif 350w,\n/static/4e06bd39766c182ea26b255309b1dee1/7ec1a/course-card.avif 700w,\n/static/4e06bd39766c182ea26b255309b1dee1/71a30/course-card.avif 1400w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/4e06bd39766c182ea26b255309b1dee1/5d873/course-card.webp 175w,\n/static/4e06bd39766c182ea26b255309b1dee1/26a00/course-card.webp 350w,\n/static/4e06bd39766c182ea26b255309b1dee1/f23f0/course-card.webp 700w,\n/static/4e06bd39766c182ea26b255309b1dee1/2c2d0/course-card.webp 1400w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 394
+                  }
+                }
+              },
+              "tech": ["React", "Express", "Spotify API", "Styled Components"],
+              "github": null,
+              "external": "https://www.newline.co/courses/build-a-spotify-connected-app",
+              "cta": "https://www.newline.co/courses/build-a-spotify-connected-app"
+            },
+            "html": "<p>Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.</p>\n<p>Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.</p>"
+          }
+        }
+      ]
+    }
+  }
+}
